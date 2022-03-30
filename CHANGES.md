@@ -1,3 +1,11 @@
+## Version 1.0.0
+
+### milador/jacdac-milador-modules.git
+
+* [f89a01e](https://github.com/milador/jacdac-milador-modules.git/commit/f89a01e) Updated temperature_init method name
+* [33e0968](https://github.com/milador/jacdac-milador-modules.git/commit/33e0968) Added pressure sensor target
+* [421cf50](https://github.com/milador/jacdac-milador-modules.git/commit/421cf50) Initial commit
+
 ## Version 0.19.4
 
 ### microsoft/jacdac-msr-modules
