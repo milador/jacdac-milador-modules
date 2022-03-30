@@ -8,5 +8,5 @@ FIRMWARE_IDENTIFIER(0x3277416c, "JM Pressure Sensor v1.0");
 
 void app_init_services() {
     barometer_init(&pressure_lps33hwtr);
-    thermometer_init(&temperature_lps33hwtr);
+    temperature_init(&temperature_lps33hwtr);
 }
