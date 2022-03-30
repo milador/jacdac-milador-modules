@@ -119,10 +119,6 @@ void app_init_services() {
 
         DMESG("analog trigger");
 
-        pin_setup_input(JACK_R2, PIN_PULL_DOWN);
-        pin_setup_input(JACK_TIP, PIN_PULL_DOWN);
-        pin_setup_input(JACK_SLEEVE, PIN_PULL_UP);
-
         // potentiometer
         if (current_input == INPUT_TYPE_ANALOG_TRIGGER)
             potentiometer_init(JACK_R2, JACK_TIP, JACK_SLEEVE);
