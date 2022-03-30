@@ -24,6 +24,7 @@ DROP_TARGETS ?= \
 	jm-access-switch-output-1.1 \
 	jm-button-40-0.2 \
 	jm-flex-sensor-1.0 \
+	jm-pressure-sensor-1.0 \
 	jm-relay-1.0 \
 	jm-rgb-led-bar-58-0.1 \
 	jm-rgb-led-generic-60-0.1 \
