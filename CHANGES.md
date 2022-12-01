@@ -1,3 +1,57 @@
+## Version 1.1.0
+
+### milador/jacdac-milador-modules
+
+* [d1dddcc](https://github.com/milador/jacdac-milador-modules/commit/d1dddcc) Updated JM Pressure Sensor version number
+* [4c30e66](https://github.com/milador/jacdac-milador-modules/commit/4c30e66) Updated target code
+* [cba7ab9](https://github.com/milador/jacdac-milador-modules/commit/cba7ab9) Remove
+* [a0d2d59](https://github.com/milador/jacdac-milador-modules/commit/a0d2d59) Merge remote-tracking branch 'template/main'
+* [b76905e](https://github.com/milador/jacdac-milador-modules/commit/b76905e) adding todos
+* [763021e](https://github.com/milador/jacdac-milador-modules/commit/763021e) Updated code for STM32G030x6 MCU
+* [e4425df](https://github.com/milador/jacdac-milador-modules/commit/e4425df) [skip ci] firmware v1.0.0 built
+* [b4a269e](https://github.com/milador/jacdac-milador-modules/commit/b4a269e) Updated temperature_init method name
+* [b3e3bb5](https://github.com/milador/jacdac-milador-modules/commit/b3e3bb5) Added pressure sensor target
+* [2f7ae45](https://github.com/milador/jacdac-milador-modules/commit/2f7ae45) Initial commit
+* [27e7c1a](https://github.com/milador/jacdac-milador-modules/commit/27e7c1a) enable serial comms in star brain; update submods
+* [b6dbd53](https://github.com/milador/jacdac-milador-modules/commit/b6dbd53) fixes for tester module
+* [3404e25](https://github.com/milador/jacdac-milador-modules/commit/3404e25) bump jd-c
+* [3aabc05](https://github.com/milador/jacdac-milador-modules/commit/3aabc05) set saner tester defaults
+* [d9a0ef7](https://github.com/milador/jacdac-milador-modules/commit/d9a0ef7) use alternate pin for LED_B not to conflict with servo channel
+* [f43483b](https://github.com/milador/jacdac-milador-modules/commit/f43483b) win build fixes
+* [aa80b83](https://github.com/milador/jacdac-milador-modules/commit/aa80b83) update win NT build fix
+* [db86e92](https://github.com/milador/jacdac-milador-modules/commit/db86e92) adding developer-rgb-117
+* [cdad435](https://github.com/milador/jacdac-milador-modules/commit/cdad435) update submodules
+* [1ffd51b](https://github.com/milador/jacdac-milador-modules/commit/1ffd51b) making new temp & RH module consistent
+* [61f0639](https://github.com/milador/jacdac-milador-modules/commit/61f0639) update submodules
+* [c3433e8](https://github.com/milador/jacdac-milador-modules/commit/c3433e8) [skip ci] firmware v0.20.2 built
+* [9a53eee](https://github.com/milador/jacdac-milador-modules/commit/9a53eee) v0.20.2
+* [2984cc6](https://github.com/milador/jacdac-milador-modules/commit/2984cc6) haptic updates
+* [39985dc](https://github.com/milador/jacdac-milador-modules/commit/39985dc) add gyro-215 use default gyro transform
+* [9c859fc](https://github.com/milador/jacdac-milador-modules/commit/9c859fc) Add MSR temp&rh 116
+* [5a1b185](https://github.com/milador/jacdac-milador-modules/commit/5a1b185) add rpihat 212
+* [95ee1d2](https://github.com/milador/jacdac-milador-modules/commit/95ee1d2) update windows com instructions
+* [812a19b](https://github.com/milador/jacdac-milador-modules/commit/812a19b) add co2 209 module; update submodules
+* [648ec27](https://github.com/milador/jacdac-milador-modules/commit/648ec27) add separate profile for temp/hum env204
+* [5289b70](https://github.com/milador/jacdac-milador-modules/commit/5289b70) [skip ci] firmware v0.20.1 built
+* [5c465f8](https://github.com/milador/jacdac-milador-modules/commit/5c465f8) v0.20.1
+* [b02b515](https://github.com/milador/jacdac-milador-modules/commit/b02b515) update submodules (fix build)
+* [3438141](https://github.com/milador/jacdac-milador-modules/commit/3438141) add new pressure and PIR modules
+* [e5b9d12](https://github.com/milador/jacdac-milador-modules/commit/e5b9d12) button is new example
+* [0ec1c75](https://github.com/milador/jacdac-milador-modules/commit/0ec1c75) set default branch
+* [5819c17](https://github.com/milador/jacdac-milador-modules/commit/5819c17) update submod
+* [d25d3ba](https://github.com/milador/jacdac-milador-modules/commit/d25d3ba) set branch names
+* [7616e09](https://github.com/milador/jacdac-milador-modules/commit/7616e09) readme clarifications; update stm submod
+* [175d1cb](https://github.com/milador/jacdac-milador-modules/commit/175d1cb) fix link
+* [857060a](https://github.com/milador/jacdac-milador-modules/commit/857060a) remove unneeded file
+* [ce85b17](https://github.com/milador/jacdac-milador-modules/commit/ce85b17) update for template
+* [6b25e3a](https://github.com/milador/jacdac-milador-modules/commit/6b25e3a) [skip ci] firmware v0.0.1 built
+
+### microsoft/jacdac-c
+
+
+### microsoft/jacdac-stm32x0
+
+
 ## Version 0.20.2
 
 ### microsoft/jacdac-msr-modules
